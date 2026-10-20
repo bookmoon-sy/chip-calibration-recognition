@@ -1,0 +1,20 @@
+board-01_crop_aligned.png	.SANYO.- | LC3664NML-10 | 5SAPAN 2CB3-	final_angle:0.46
+board-02_crop_aligned.png	.SANYO.- | JAPAN62CB3	final_angle:-1.91
+board-03_crop_aligned.png	-SANYO- | LCS664NML-10 - | JAPAN2CB35-	final_angle:-24.90
+board-04_crop_aligned.png	SANYO . | LC3664NML-10. | JAPAN 2CB3	final_angle:-35.61
+board-05_crop_aligned.png	SANYO | LC3664NML-10 | PA 2CB3	final_angle:-45.00
+board-06_crop_aligned.png	SANYO- | LCS664NML-19 - | UAPAN 2CB3-	final_angle:-55.99
+board-07_crop_aligned.png	SANYO | LC3664NML-19 | . JAPAN 2CB	final_angle:-65.88
+board-08_crop_aligned.png	SANYO | S538 | JAPAN2CB	final_angle:-81.47
+board-09_crop_aligned.png	SANYO.. | LCSB64NMLO10 - | JAPAN-2CBS.	final_angle:-90.00
+board-10_crop_aligned.png	SANYO | LC3664NML-10 | JAPAN 2CB3	final_angle:253.71
+board-11_crop_aligned.png	.SANO | .LC3664NML-10. | JAPAN PCRS	final_angle:244.87
+board-12_crop_aligned.png	4 SANYO | LC3664NML-19. | .JSAPAN 2CB 7	final_angle:232.13
+board-13_crop_aligned.png	SANYO.. | LCI6G4NML-19 . | JAPAN2CB3 | J 7 .	final_angle:223.22
+board-14_crop_aligned.png	-SANYO. | LC3664NML19 | ..JAPAN2CB3.	final_angle:213.07
+board-15_crop_aligned.png	SANYO | -.LC3664NML-10 | .SAPAN2CB3	final_angle:204.72
+board-16_crop_aligned.png	SANYO... | AN. Q. | SAPAN-2CB3	final_angle:194.04
+board-17_crop_aligned.png	-SANYO.- | LC3664NML-10. | .JAPAN82CB3.	final_angle:182.51
+board-18_crop_aligned.png	LC3664NMLAN . | JAPAN 2CBS.	final_angle:175.56
+board-19_crop_aligned.png	-SANYO. | LCS654NML-19 | -JAPAN 2CB3	final_angle:160.37
+board-20_crop_aligned.png	SANYO | -.LC3664NML-10 | 2JAPAN 2CB3	final_angle:152.68

@@ -1,0 +1,21 @@
+name	text	hit_SANYO	hit_LC3664NML-10	hit_JAPAN	hit_2CB3	hit_count	accuracy
+board-01_crop_aligned.png	.SANYO.- | LC3664NML-10 | 5SAPAN 2CB3-	1	1	0	1	3	0.75
+board-02_crop_aligned.png	.SANYO.- | JAPAN62CB3	1	0	1	1	3	0.75
+board-03_crop_aligned.png	-SANYO- | LCS664NML-10 - | JAPAN2CB35-	1	0	1	1	3	0.75
+board-04_crop_aligned.png	SANYO . | LC3664NML-10. | JAPAN 2CB3	1	1	1	1	4	1.00
+board-05_crop_aligned.png	SANYO | LC3664NML-10 | PA 2CB3	1	1	0	1	3	0.75
+board-06_crop_aligned.png	SANYO- | LCS664NML-19 - | UAPAN 2CB3-	1	0	0	1	2	0.50
+board-07_crop_aligned.png	SANYO | LC3664NML-19 | . JAPAN 2CB	1	0	1	0	2	0.50
+board-08_crop_aligned.png	SANYO | S538 | JAPAN2CB	1	0	1	0	2	0.50
+board-09_crop_aligned.png	SANYO.. | LCSB64NMLO10 - | JAPAN-2CBS.	1	0	1	0	2	0.50
+board-10_crop_aligned.png	SANYO | LC3664NML-10 | JAPAN 2CB3	1	1	1	1	4	1.00
+board-11_crop_aligned.png	.SANO | .LC3664NML-10. | JAPAN PCRS	0	1	1	0	2	0.50
+board-12_crop_aligned.png	4 SANYO | LC3664NML-19. | .JSAPAN 2CB 7	1	0	0	0	1	0.25
+board-13_crop_aligned.png	SANYO.. | LCI6G4NML-19 . | JAPAN2CB3 | J 7 .	1	0	1	1	3	0.75
+board-14_crop_aligned.png	-SANYO. | LC3664NML19 | ..JAPAN2CB3.	1	0	1	1	3	0.75
+board-15_crop_aligned.png	SANYO | -.LC3664NML-10 | .SAPAN2CB3	1	1	0	1	3	0.75
+board-16_crop_aligned.png	SANYO... | AN. Q. | SAPAN-2CB3	1	0	0	1	2	0.50
+board-17_crop_aligned.png	-SANYO.- | LC3664NML-10. | .JAPAN82CB3.	1	1	1	1	4	1.00
+board-18_crop_aligned.png	LC3664NMLAN . | JAPAN 2CBS.	0	0	1	0	1	0.25
+board-19_crop_aligned.png	-SANYO. | LCS654NML-19 | -JAPAN 2CB3	1	0	1	1	3	0.75
+board-20_crop_aligned.png	SANYO | -.LC3664NML-10 | 2JAPAN 2CB3	1	1	1	1	4	1.00
